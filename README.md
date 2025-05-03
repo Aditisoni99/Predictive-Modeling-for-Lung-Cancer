@@ -32,6 +32,14 @@ Key features include:
 - Applied **SMOTE** to balance class distribution
 - Train-Test split (80-20)
 
+## Data Visualization
+![image](https://github.com/user-attachments/assets/9172cf11-5a59-4d64-94d1-efa9f14164f9)
+![image](https://github.com/user-attachments/assets/96f81e00-199b-4120-a051-702b750e3ff5)
+![image](https://github.com/user-attachments/assets/da9a983f-a820-454a-9c69-a1cb9fc66d1f)
+![image](https://github.com/user-attachments/assets/9fd36f7f-4533-46fd-bca7-a17b85f54159)
+![image](https://github.com/user-attachments/assets/b530634c-90db-4b3e-b8fb-82f45f419a49)
+![image](https://github.com/user-attachments/assets/e5e95303-d2f6-49c2-a0e0-eb45f89acfb1)
+
 ---
 
 ## 🧠 Models Applied
@@ -76,6 +84,8 @@ Class 1 (Lung Cancer):    Precision=0.98, Recall=0.93, F1=0.95
 
 A heatmap clearly shows high True Positives (80), meaning the model is effective at identifying lung cancer cases.
 
+
+
 ---
 
 ## 🧠 Statistical Modeling & Recommendations
@@ -83,6 +93,7 @@ A heatmap clearly shows high True Positives (80), meaning the model is effective
 - Logistic Regression can be expanded with **odds ratios** and **p-values**.
 - Explore **SHAP** for feature contribution explanations.
 - Perform **survival analysis** if time-series or progression data is added.
+![image](https://github.com/user-attachments/assets/d752842a-e588-40eb-9c8f-bb798537ae18)
 
 ---
 
